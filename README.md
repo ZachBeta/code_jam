@@ -109,7 +109,8 @@ end
 ### Try these later
 * Sponsored Hackathons locally or elsewhere
 * Startup Weekend events - [Startup Weekend Upcoming Events | Startup Weekend](http://startupweekend.org/events/)
-* Programming Koans - [Learn a New Programming Language Today with Koans - Laura Diane Hamilton](http://www.lauradhamilton.com/learn-a-new-programming-language-today-with-koans)
+* Programming Koans
+  * [Learn a New Programming Language Today with Koans - Laura Diane Hamilton](http://www.lauradhamilton.com/learn-a-new-programming-language-today-with-koans)
   * Ruby - [neo/ruby_koans](https://github.com/neo/ruby_koans)
   * JS - [mrdavidlaing/javascript-koans](https://github.com/mrdavidlaing/javascript-koans)
   * Java - [matyb/java-koans](https://github.com/matyb/java-koans)
@@ -120,4 +121,5 @@ end
   * Document Ruby - [ruby/ruby](https://github.com/ruby/ruby) / [Contributing to Ruby's Documentation - Literate Programming](http://blog.steveklabnik.com/posts/2011-05-10-contributing-to-ruby-s-documentation)
 * Twitter Clone in Rails - [Learn Web Development with the Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 * Pair on any problem you'd like to explore
+  * Share it on github/twitter
   * Make it fun
