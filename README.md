@@ -24,7 +24,7 @@
 ## Useful tools for a Code Retreat
 
 ### Tool: Git
-* Most useful workflow you'll gain up front
+* Most useful workflow you'll gain up front:
 
 ```bash
 $ git init
@@ -74,15 +74,16 @@ $ git diff
 * Explore behavior at a low level
 * Build confidence in your implementation
 * Avoid slow/painful setup to test behavior
+* Minimalist sample for ruby:
 
-```
+```bash
 $ gem install rspec
 $ cd path/to/project
 $ rspec --init
 $ rspec
 ```
 
-```(ruby)
+```ruby
 describe ObjectUnderTest do
   describe '#function_under_test' do
     it 'has some behavior' do
