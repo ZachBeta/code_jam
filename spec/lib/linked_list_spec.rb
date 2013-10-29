@@ -1,5 +1,5 @@
 require 'spec_helper'
-require './linked_list'
+require 'linked_list'
 
 describe LinkedList do
   it 'has a first node' do

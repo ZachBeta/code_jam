@@ -1,5 +1,5 @@
 require 'spec_helper'
-require './stack'
+require 'stack'
 
 describe Stack do
   describe '#push' do

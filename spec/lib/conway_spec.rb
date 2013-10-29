@@ -1,4 +1,4 @@
-require './conway'
+require 'conway'
 require 'spec_helper'
 
 describe Conway do
