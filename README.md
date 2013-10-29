@@ -74,13 +74,15 @@ $ git diff
 * Explore behavior at a low level
 * Build confidence in your implementation
 * Avoid slow/painful setup to test behavior
+
 ```
 $ gem install rspec
 $ cd path/to/project
 $ rspec --init
 $ rspec
 ```
-```ruby
+
+```(ruby)
 describe ObjectUnderTest do
   describe '#function_under_test' do
     it 'has some behavior' do
