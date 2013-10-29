@@ -7,21 +7,23 @@
 
 ---
 
-# Code Retreat Core Concepts
+## Code Retreat Core Concepts
 * 45 minutes of pairing TDD on Conway's Game of Life
 * 15 minutes of meta conversation
 * Rotate partners
 * Code should be considered "throw away"
 
-## Reasons to do a Code Retreat style event
+### Reasons to do a Code Retreat style event
 * More professional experience outside of coursework
 * Chance to practice your skills
 * Chance to teach/learn
 * More "ah ha!" moments
 
-# Useful tools for a Code Retreat
+---
 
-## Tool: Git
+## Useful tools for a Code Retreat
+
+### Tool: Git
 * Most useful workflow you'll gain up front
 ```bash
 $ git init
@@ -33,7 +35,7 @@ $ git diff
 * [Git Immersion - Brought to you by Neo](http://gitimmersion.com/)
 * [Git Docs](http://git-scm.com/)
 
-### Reasons to use Git
+#### Reasons to use Git
 * Less "Oh no I lost everything"
 * Less "I just want to get back to when my code worked"
 * Less copy paste rename "snapshots"
@@ -41,7 +43,9 @@ $ git diff
 * More obvious what changed
 * More recovering from mistakes quickly
 
-## Tool: Pair Programming
+---
+
+### Tool: Pair Programming
 * 1 driver
 * 1 navigator
 * 2 keyboards and mice
@@ -51,12 +55,14 @@ $ git diff
 * Play nice :-)
 * Teach/learn
 
-### Reasons to Pair Program
+#### Reasons to Pair Program
 * :-/ "I'd rather just work alone, I work better that way"
 * :-( "Ughhhhh, I've been stuck for 4 hours"
 * :-) "Let's talk this out"
 
-## Tool: TDD
+---
+
+### Tool: TDD
 * Write tests first
 * Use framework for the language you want to use
   * Ruby - [RSpec.info: home](http://rspec.info/)
@@ -83,7 +89,7 @@ describe ObjectUnderTest do
 end
 ```
 
-### Reasons to use TDD
+#### Reasons to use TDD
 * Less "Why isn't this working the way I want?!"
 * Less print everything and rerun the application
 * Less stepping through with debugger blindly
@@ -91,14 +97,14 @@ end
 
 ---
 
-# Further ideas to jam on
+## Further ideas to jam on
 
-## Start Here
+### Start Here
 * Code Retreat - [Coderetreat - Honing the craft together worldwide](http://coderetreat.org/)
 * Simple Web Apps - [ZachBeta/ruby_newbie](https://github.com/ZachBeta/ruby_newbie)
 * Project Euler - [Project Euler](http://projecteuler.net/)
 
-## Try these later
+### Try these later
 * Sponsored Hackathons locally or elsewhere
 * Startup Weekend events - [Startup Weekend Upcoming Events | Startup Weekend](http://startupweekend.org/events/)
 * Programming Koans - [Learn a New Programming Language Today with Koans - Laura Diane Hamilton](http://www.lauradhamilton.com/learn-a-new-programming-language-today-with-koans)
