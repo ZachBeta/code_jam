@@ -104,7 +104,7 @@ end
 
 ## Further ideas to jam on
 
-### Start Here
+### Try these first
 * Code Retreat - [Coderetreat - Honing the craft together worldwide](http://coderetreat.org/)
 * Simple Web Apps - [ZachBeta/ruby_newbie](https://github.com/ZachBeta/ruby_newbie)
 * Project Euler - [Project Euler](http://projecteuler.net/)
