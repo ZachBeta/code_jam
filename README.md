@@ -25,6 +25,7 @@
 
 ### Tool: Git
 * Most useful workflow you'll gain up front
+
 ```bash
 $ git init
 $ git add .
@@ -32,6 +33,7 @@ $ git commit -am "this code does x"
 $ git status
 $ git diff
 ```
+
 * [Git Immersion - Brought to you by Neo](http://gitimmersion.com/)
 * [Git Docs](http://git-scm.com/)
 
