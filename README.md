@@ -126,3 +126,7 @@ end
 * Pair on any problem you'd like to explore
   * Share it on github/twitter
   * Make it fun
+
+---
+
+# HAVE FUN!
