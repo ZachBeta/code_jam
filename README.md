@@ -69,7 +69,7 @@ $ git diff
 * Use framework for the language you want to use
   * Ruby - [RSpec.info: home](http://rspec.info/)
   * Java - [JUnit](http://junit.org/)
-  * JS - [introduction-1.3.1.js](http://pivotal.github.io/jasmine/)
+  * JS - [introduction-1.3.1.js](http://jasmine.github.io/)
   * C++ - [Primer - googletest - Getting started with Google C++ Testing Framework - Google C++ Testing Framework - Google Project Hosting](https://code.google.com/p/googletest/wiki/Primer)
 * Explore behavior at a low level
 * Build confidence in your implementation
